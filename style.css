@@ -109,27 +109,27 @@ h1 span {
   border-color: #e5a93c;
 }
 
-#projects {
+.page {
   min-height: 100vh;
   box-sizing: border-box;
-  padding: 2rem;
+  padding: 1rem;
 }
 
-#projects h2 {
+.page h2 {
   font-size: 2rem;
   margin: 0 0 2rem;
 }
-main {
+
+.card {
   display: flex;
   align-items: center;
   gap: 2rem;
   padding: 2rem;
-  margin: 0 1rem 2rem;
+  margin: 2rem 0rem 2rem;
   background: #1e1c19;
   border: 2px solid #38332c;
   border-radius: 20px;
 }
-
 .text p {
   margin: 0 0 1rem;
 }
