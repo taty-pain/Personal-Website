@@ -7,3 +7,4 @@ VTracks: A shoes mounted device uses vibration to help the blind to navigate and
         Navigation: Uses open street map and a Neo-6m GPS tracker
         Obstacle detection: Uses 1 lidar sensor on a servo and a ultrasonic sensor
 Algaerythm: A floatable project that collects red tide algae on the surface of the ocean, helps fisherman to safe their fishes if red tide algae come.
+![App Screenshot](Screenshot From 2026-11-12 10-58-58.png)
