@@ -110,7 +110,6 @@ h1 span {
 }
 
 .page {
-  min-height: 100vh;
   box-sizing: border-box;
   padding: 1rem;
 }
