@@ -33,3 +33,14 @@ Step of clonning:
 1. Open the file on any code editor (I use VS code)
 2. Change index.html to your info
 3. Done!
+
+## Help
+
+* **The page looks plain or has no styling:** check that `style.css` is in the same folder as `index.html`.
+* **Images don't show up:** the file name in your HTML must match the real file exactly, including capital letters and spaces. `Photo.jpg` and `photo.jpg` are different files on GitHub. Renaming images without spaces (for example `project-slides.png`) avoids a lot of problems.
+* **My changes don't appear in the browser:** save the file (`Ctrl+S`), then do a hard refresh with `Ctrl+Shift+R` (`Cmd+Shift+R` on macOS). The browser often shows an old cached copy.
+* **How do I open the website?** Double-click `index.html`, or right-click it and choose "Open with" your browser. To view it through a local server instead, run this in the project folder and open http://localhost:8000:
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE.md file for details
